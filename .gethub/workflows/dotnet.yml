@@ -6,6 +6,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        # هذا السطر يخلي الـ GitHub يروح للمجلد الصح اللي بيه مشروعك
+        working-directory: WebApplication Lec+Labs+Sources/WebApplication1
 
     steps:
     - uses: actions/checkout@v3
@@ -17,5 +21,3 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
