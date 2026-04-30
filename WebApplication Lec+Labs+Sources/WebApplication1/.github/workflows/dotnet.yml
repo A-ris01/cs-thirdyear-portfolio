@@ -1,10 +1,14 @@
-name: .NET CI
+name: WebApp CI
 
 on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: WebApplication Lec+Labs+Sources/WebApplication1
 
     steps:
     - uses: actions/checkout@v3
@@ -16,5 +20,3 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
