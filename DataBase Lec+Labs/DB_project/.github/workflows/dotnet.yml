@@ -6,6 +6,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: DataBase Lec+Labs/DB_project
+
     steps:
     - uses: actions/checkout@v3
     - name: Setup .NET
