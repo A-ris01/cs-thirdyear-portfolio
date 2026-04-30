@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\DB2_2526\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|c:\\users\\hp\\source\\repos\\db2_2526\\connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|solutionrelative:connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|C:\\Users\\hp\\source\\repos\\DB2_2526\\connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|solutionrelative:connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|C:\\Users\\hp\\source\\repos\\DB2_2526\\connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|solutionrelative:connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeDocumentMoniker": "connectDB\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeToolTip": "connectDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:41:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "phone_contacts.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeDocumentMoniker": "connectDB\\phone_contacts.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeToolTip": "connectDB\\phone_contacts.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T20:19:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "phone_contacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeDocumentMoniker": "connectDB\\phone_contacts.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DB2_2526\\connectDB\\phone_contacts.cs [Design]",
+              "RelativeToolTip": "connectDB\\phone_contacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:05:06.186Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

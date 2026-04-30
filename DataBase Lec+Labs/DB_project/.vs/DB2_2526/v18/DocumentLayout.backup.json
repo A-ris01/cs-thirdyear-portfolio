@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|c:\\users\\ahmed\\desktop\\st3 things\\database\\db2_2526\\db2_2526\\connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|solutionrelative:connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|solutionrelative:connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|solutionrelative:connectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\connectDB.csproj|solutionrelative:connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|c:\\users\\ahmed\\desktop\\st3 things\\database\\db2_2526\\db2_2526\\connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{3F0882E3-B89F-48DA-B1F6-0AAEF85BCD32}|connectDB\\LabCode.csproj|solutionrelative:connectdb\\phone_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeDocumentMoniker": "connectDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeToolTip": "connectDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:41:35.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "phone_contacts.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeDocumentMoniker": "connectDB\\phone_contacts.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeToolTip": "connectDB\\phone_contacts.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:41:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeDocumentMoniker": "connectDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\Program.cs",
+              "RelativeToolTip": "connectDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:40:23.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "phone_contacts.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeDocumentMoniker": "connectDB\\phone_contacts.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeToolTip": "connectDB\\phone_contacts.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAYwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-04-24T16:40:23.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "phone_contacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs",
+              "RelativeDocumentMoniker": "connectDB\\phone_contacts.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\st3 things\\DataBase\\DB2_2526\\DB2_2526\\connectDB\\phone_contacts.cs [Design]",
+              "RelativeToolTip": "connectDB\\phone_contacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:40:23.815Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
