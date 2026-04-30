@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OS4Aq5BoJcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\st3 things\\softeware\\WebApplication1\\SwaggerJwtDemo\\SwaggerJwtDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
