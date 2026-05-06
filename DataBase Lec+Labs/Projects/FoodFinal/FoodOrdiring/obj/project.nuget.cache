@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "bVTZhzrsj2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\st3 things\\softeware\\FoodOrdiring_v3\\FoodFinal2\\FoodOrdiring\\FoodOrdiring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\mysql.data\\9.7.0\\mysql.data.9.7.0.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\Ahmed\\Desktop\\st3 things\\softeware\\FoodOrdiring_v3\\FoodFinal2\\FoodOrdiring\\FoodOrdiring.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Ahmed\\Desktop\\st3 things\\softeware\\FoodOrdiring_v3\\FoodFinal2\\FoodOrdiring\\FoodOrdiring.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
